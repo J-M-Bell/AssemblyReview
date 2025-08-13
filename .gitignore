@@ -118,3 +118,4 @@ Example/Debug/Src/subdir.mk
 Example/Debug/Startup/startup_stm32f334c8tx.d
 Example/Debug/Startup/startup_stm32f334c8tx.o
 Example/Debug/Startup/subdir.mk
+Workspace/Assembly Review.code-workspace
