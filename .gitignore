@@ -126,3 +126,5 @@ M2Program2/STM32F334C8TX_FLASH.ld
 M2Program2/.settings/language.settings.xml
 M2Program2/.settings/org.eclipse.core.resources.prefs
 M2Program2/Startup/startup_stm32f334c8tx.s
+M2Program2/M2Program2.launch
+M2Program2/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs
