@@ -119,3 +119,10 @@ Example/Debug/Startup/startup_stm32f334c8tx.d
 Example/Debug/Startup/startup_stm32f334c8tx.o
 Example/Debug/Startup/subdir.mk
 Workspace/Assembly Review.code-workspace
+/.metadata/
+M2Program2/.cproject
+M2Program2/.project
+M2Program2/STM32F334C8TX_FLASH.ld
+M2Program2/.settings/language.settings.xml
+M2Program2/.settings/org.eclipse.core.resources.prefs
+M2Program2/Startup/startup_stm32f334c8tx.s
